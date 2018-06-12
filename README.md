@@ -1,4 +1,4 @@
-**NOTE:** I've forked it from [Shaharke](https://github.com/shaharke/node-ansible) to accept some of the PRs to fit my requirements and modify at my will. This repo has merged [PullRequest1](https://github.com/shaharke/node-ansible/pull/44), [PullRequest2](https://github.com/shaharke/node-ansible/pull/38), [PullRequest3](https://github.com/shaharke/node-ansible/pull/36).
+**NOTE:** I've forked it from [Shaharke](https://github.com/shaharke/node-ansible) to accept some of the PRs to fit my requirements and modify at my will. This repo has merged the following PRs [PR1](https://github.com/shaharke/node-ansible/pull/44), [PR2](https://github.com/shaharke/node-ansible/pull/38), [PR3](https://github.com/shaharke/node-ansible/pull/36).
 
 node-ansible [![Build Status](https://travis-ci.org/lovubuntu/node-ansible.png?branch=develop)](https://travis-ci.org/lovubuntu/node-ansible)
 ============
@@ -67,4 +67,4 @@ var promise = playbook.exec();
 
 ### License
 
-[MIT](https://github.com/shaharke/node-ansible/blob/master/LICENSE)
+[MIT](https://github.com/lovubuntu/node-ansible/blob/master/LICENSE)
