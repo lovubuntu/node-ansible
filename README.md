@@ -1,4 +1,6 @@
-node-ansible [![Build Status](https://travis-ci.org/shaharke/node-ansible.png?branch=develop)](https://travis-ci.org/shaharke/node-ansible)
+**NOTE:** I've forked it from [Shaharke](https://github.com/shaharke/node-ansible) to accept some of the PRs to fit my requirements and modify at my will. This repo has merged [PullRequest1](https://github.com/shaharke/node-ansible/pull/44), [PullRequest2](https://github.com/shaharke/node-ansible/pull/38), [PullRequest3](https://github.com/shaharke/node-ansible/pull/36).
+
+node-ansible [![Build Status](https://travis-ci.org/lovubuntu/node-ansible.png?branch=develop)](https://travis-ci.org/lovubuntu/node-ansible)
 ============
 
 Programmatic interface in Node.js for executing Ansible ad-hoc commands and playbooks
